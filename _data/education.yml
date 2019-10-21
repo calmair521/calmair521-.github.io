@@ -1,0 +1,11 @@
+- layout: left
+  name: Purdue University
+  dates: 2017-Present
+  qualification: Master in Computer Engineering
+  MS Thesis: A cybersecurity framework for wireless controlled system in smart buildings
+  quote: 
+  description: | # this will include new lines to allow paragraphs
+  Research Assistant and Ray W.Herrick Laboratories student                                           
+  Research area: The applications of Internet of Things and wireless devices in the smart buildings; Development of the data-driven model (Deep learning neural network) for the fault detection and diagnosis of HVAC and other building systems; Development of the integrated cyber and physical model for wireless controlled building system. 
+  Publications:  Feng Wu and Ming Qu, "A Cyber-Security Framework for Wireless-Based Controlled Smart Buildings I: Two-Position Control", in 2020 ASHRAE Winter Conference, Orlando, U.S..
+
