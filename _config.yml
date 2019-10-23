@@ -21,8 +21,7 @@ about_content: | # this will include new lines to allow paragraphs
   
   
 # Projects Section
-# projects_title: Project
-projects_profile_image: images/Feng.jpg
+# projects_title: Implemented projects
 
 # Experience Section
 # experience_title: Experience
