@@ -1,5 +1,6 @@
 - layout: left
   name: Selected HVAC control and energy saving projects
+  projects_profile_image: images/Feng.jpg
   description: | # this will include new lines to allow paragraphs
     Energy efficient projects of 10 Wal-Mart stores in China, Average annual energy saving up to 15% per store
     1) Adding HVAC control system and VFD for the air handlers, adjusting the frequency of fan to meet to market temperature requirement, 
@@ -11,4 +12,4 @@
     
     Energy Management System of Jiangsu construction company headquarter Building (GFA of 100000 square meters).
     There are about 1000 smart electricity meters, about 500 smart water meters, and about 200 heat meters installed in the building. Those meters are used to collect the data of electricity consumption, water consumption and heating/cooling energy consumption respectively. In addition, a smart energy management system used to read data from those meters by using the gateway. This system is able to monitor the daily, monthly and yearly energy consumption of building, and helps the owner of the building to save energy
-projects_profile_image: images/Feng.jpg
+   
