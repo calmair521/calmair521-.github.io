@@ -13,7 +13,6 @@ website: https://calmair521.github.io/
 
 # About Section
 # about_title: About Me
-about_profile_image: images/quart chart.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name is Feng(Stephen) Wu. I'm doing my master degree in Electrical and computer engineering, and a research assistant studying at Purdue University.
   Before came Purdue in 2017, I have been working as a full-time control engineer at Delta controls for 6 years, which I deal with different HAVC control and
@@ -22,7 +21,7 @@ about_content: | # this will include new lines to allow paragraphs
   
 # Projects Section
 # projects_title: Projects
-
+about_profile_image: images/quart chart.jpg
 # Experience Section
 # experience_title: Experience
 
