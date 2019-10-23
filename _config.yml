@@ -26,6 +26,8 @@ about_content: | # this will include new lines to allow paragraphs
 
 # Education Section
 # educaton_title: Education
+education_profile_image: images/quart chart.jpg
+
 # More Section
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
