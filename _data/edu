@@ -1,1 +1,13 @@
+layout: left
+  education_profile_image: images/quart chart.jpg
+  name: Purdue University
+  dates: 2017 - Present
+  qualification: Master in Computer Engineering
+  quote: >
+   Publications:Feng Wu and Ming Qu, "A Cyber-Security Framework for Wireless-Based Controlled Smart Buildings I: Two-Position Control", in 2020 ASHRAE Winter Conference, Orlando, U.S..
+  description: | # this will include new lines to allow paragraphs
+    I'm a research assistant and Ray W.Herrick Laboratories student since May 2018. The research I'm working on includes: The applications of Internet of Things and wireless devices in the smart buildings; 
+    Development of the data-driven model (Deep learning neural network) for the fault detection and diagnosis of HVAC and other building systems; 
+    Development of the integrated cyber and physical model for wireless controlled building system.   [Poster](https://calmair521.github.io/Wu_Feng_Poster2019.pdf)
+   
 
