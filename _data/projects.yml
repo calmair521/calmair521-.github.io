@@ -1,6 +1,6 @@
-# - layout: left
-#   name: Selected HVAC control and energy saving projects
-#   description: | # this will include new lines to allow paragraphs
+- layout: left
+   name: Selected projects
+   description: | # this will include new lines to allow paragraphs
 #     Energy efficient projects of 10 Wal-Mart stores in China, Average annual energy saving up to 15% per store
 #     1) Adding HVAC control system and VFD for the air handlers, adjusting the frequency of fan to meet to market temperature requirement, 
 #     2) Installing lighting control system, it enables to turn on/off lighting depends on different regions and schedules. 
