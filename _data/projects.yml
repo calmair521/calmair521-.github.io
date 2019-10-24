@@ -1,14 +1,14 @@
 - layout: left
   name: Selected projects
-  description: | # this will include new lines to allow paragraphs
-#     Energy efficient projects of 10 Wal-Mart stores in China, Average annual energy saving up to 15% per store
-#     1) Adding HVAC control system and VFD for the air handlers, adjusting the frequency of fan to meet to market temperature requirement, 
-#     2) Installing lighting control system, it enables to turn on/off lighting depends on different regions and schedules. 
-#     3) Some stores also installed the chiller plant control system, it makes the chiller operate safely and efficiently. 
+  description: | #this will include new lines to allow paragraphs
+    Energy efficient projects of 10 Wal-Mart stores in China, Average annual energy saving up to 15% per store
+    1) Adding HVAC control system and VFD for the air handlers, adjusting the frequency of fan to meet to market temperature requirement, 
+    2) Installing lighting control system, it enables to turn on/off lighting depends on different regions and schedules. 
+    3) Some stores also installed the chiller plant control system, it makes the chiller operate safely and efficiently. 
     
-#     Building Management System of Shangri-La Nanjing Hotel (GFA of 121937 square meters, 471 rooms)
-#     The total control and monitor points of BMS is about 6700. The BMS monitors and controls the air conditioning system, chillers plant system (including chillers, pumps, and valves), lighting system, etc. This project also won the silver award of LEED BD+C.
+    Building Management System of Shangri-La Nanjing Hotel (GFA of 121937 square meters, 471 rooms)
+    The total control and monitor points of BMS is about 6700. The BMS monitors and controls the air conditioning system, chillers plant system (including chillers, pumps, and valves), lighting system, etc. This project also won the silver award of LEED BD+C.
     
-#     Energy Management System of Jiangsu construction company headquarter Building (GFA of 100000 square meters).
-#     There are about 1000 smart electricity meters, about 500 smart water meters, and about 200 heat meters installed in the building. Those meters are used to collect the data of electricity consumption, water consumption and heating/cooling energy consumption respectively. In addition, a smart energy management system used to read data from those meters by using the gateway. This system is able to monitor the daily, monthly and yearly energy consumption of building, and helps the owner of the building to save energy
+    Energy Management System of Jiangsu construction company headquarter Building (GFA of 100000 square meters).
+    There are about 1000 smart electricity meters, about 500 smart water meters, and about 200 heat meters installed in the building. Those meters are used to collect the data of electricity consumption, water consumption and heating/cooling energy consumption respectively. In addition, a smart energy management system used to read data from those meters by using the gateway. This system is able to monitor the daily, monthly and yearly energy consumption of building, and helps the owner of the building to save energy
    
