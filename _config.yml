@@ -3,7 +3,7 @@ repository: sproogen/resume-theme
 # favicon: images/favicon.ico
 
 # Personal info
-name: Feng(Acker)Wu
+name: Feng Wu
 title: Research assistant at Purdue University
 email: wu1239@purdue[dot]edu
 website: https://calmair521.github.io/
@@ -15,7 +15,7 @@ website: https://calmair521.github.io/
 # about_title: About Me
 about_profile_image: images/Feng.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Feng(Acker) Wu. I'm currently doing my PhD degree in Civil(Architectural) Engineering and 
+  Hi, my name is Feng Wu. I'm currently doing my PhD degree in Civil(Architectural) Engineering and 
   a research assistant studying at Purdue University.I also hold a master degree of computer engineering. 
   Before came Purdue in 2017, I have been working as a full-time control engineer at Delta controls for 
   6 years, which I deal with different HAVC control and
